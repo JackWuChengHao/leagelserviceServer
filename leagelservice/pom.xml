@@ -2,19 +2,19 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.team</groupId>
-  <artifactId>leagelservice</artifactId>
+  <groupId>PrivateProjects</groupId>
+  <artifactId>Components</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>leagelservice</name>
+  <name>Components</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
-<parent>
+    
+    <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.3.RELEASE</version>
@@ -39,4 +39,5 @@
             </plugin>
         </plugins>
     </build>
+  
 </project>

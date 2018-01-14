@@ -1,4 +1,4 @@
-package com.team.leagelservice;
+package PrivateProjects.Components;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
