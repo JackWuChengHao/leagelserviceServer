@@ -1,4 +1,4 @@
-package PrivateProjects.Components;
+package team.leagelservice;
 
 /**
  * Hello world!
